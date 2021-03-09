@@ -1,4 +1,4 @@
-Node application create, update, view and delete notes. Created with express, mongodb and typescript.
+Node application to create, update, view and delete notes. Created with express, mongodb and typescript.
 
 Run:
 
